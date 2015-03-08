@@ -1,0 +1,7 @@
+com\mycompany\signin\WritePost.class
+com\mycompany\signin\ContentWriter.class
+com\mycompany\signin\Verify.class
+com\mycompany\signin\ReadPosts.class
+com\mycompany\signin\ContentReader.class
+com\mycompany\signin\WebPost.class
+com\mycompany\signin\Logout.class

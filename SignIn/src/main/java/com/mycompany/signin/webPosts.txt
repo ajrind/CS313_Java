@@ -1,0 +1,12 @@
+First Post
+Andrew
+test time
+this is the first post
+I hope it works!
+<endPost>
+
+Second Post
+Andrew
+Test Time 2
+This is the the second post (but should be displayed first!)
+<endPost>
